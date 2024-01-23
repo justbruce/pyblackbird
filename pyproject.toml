@@ -1,6 +1,7 @@
 [project]
 name = "pyblackbird"
 version = "0.6"
+dynamic = ["license","dependencies"]
 authors = [
   { name = "Ben Kools", email="koolsb@my.uwstout.edu" },
 ]
